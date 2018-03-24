@@ -26,7 +26,7 @@ namespace EditorUtility.Test
         }
 
 
-        const string ApiServerURL = @"http://localhost:3000/api_test/"; // ローカル
+        const string ApiServerURL = @"http://localhost:3000/api_test/"; // テスト用
 
         [MenuItem("Test Editor Utility/AsyncProcess/Test Get")]
         static void TestGet()
